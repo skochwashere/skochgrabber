@@ -4,6 +4,8 @@
 
 [⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out [here](https://github.com/blank-c/blank-grabber)
 
+[⚠️] This program is free to use. If you've purchased it from somewhere, then you got scammed.
+
 # FEATURES
 ```
 • GUI Builder.
@@ -53,3 +55,8 @@
 
 # SUPPORT
 https://dsc.gg/skochworld
+
+# CREDITS
+[⚠️] All of the rights go to [Blank-c](https://github.com/blank-c).
+[⚠️] Scripts such as SkochOBF and some implements in the main code belongs to me. You're free to use it but not to remove the credits.
+#
