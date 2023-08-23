@@ -840,7 +840,6 @@ class Builder(ctk.CTk):
 
 		os.startfile("run.bat")
 		
-subprocess.run(['python', 'Components/cert.py'])
 if __name__ == "__main__":
 
 	if os.name == "nt":
