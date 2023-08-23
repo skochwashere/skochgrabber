@@ -2,6 +2,8 @@
 
 [✅] Skoch Grabber is a powerful spyware to steal every single data from your victims.
 
+[⚠️] This code uses Blank Grabber as the template. It's now been discontinued. Check out (here)[https://github.com/blank-c/blank-grabber]
+
 # FEATURES
 ```
 • GUI Builder.
