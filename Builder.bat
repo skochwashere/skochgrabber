@@ -38,9 +38,6 @@ if %errorlevel% neq 0 (
     python -m pip install urllib3 > nul
 )
 
-echo Installing main libraries...
-pip install robloxpy requests browser_cookie3 cryptography > nul
-
 cls
 title Starting builder...
 python gui.py
